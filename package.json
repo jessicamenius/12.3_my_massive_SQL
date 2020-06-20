@@ -1,0 +1,24 @@
+{
+  "name": "12.3_my_massive_SQL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicamenius/12.3_my_massive_SQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessicamenius/12.3_my_massive_SQL/issues"
+  },
+  "homepage": "https://github.com/jessicamenius/12.3_my_massive_SQL#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}

@@ -63,3 +63,13 @@ ON users.id = posts.author;
 SELECT user_name, post_text
 FROM posts LEFT JOIN users
 ON users.id = posts.author;
+
+SELECT user_name, post_text
+FROM posts RIGHT JOIN users
+ON users.id = posts.author;
+
+-- separator
+
+SELECT user_name, post_text
+FROM posts RIGHT JOIN users
+ON users.id = posts.author;
